@@ -5,8 +5,8 @@ export default function Search() {
     <div>
       <Helmet>
         <title>Search</title>
-        <meta name="description" content="Search page" />
-        <meta name="keywords" content="t1vite, search" />
+        <meta name="description" content="Custom Gram Search Page" />
+        <meta name="keywords" content="Custom Gram, search" />
       </Helmet>
       Search
     </div>

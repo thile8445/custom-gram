@@ -5,8 +5,8 @@ export default function Home() {
     <div>
       <Helmet>
         <title>Home</title>
-        <meta name="description" content="HOme page" />
-        <meta name="keywords" content="t1vite, home" />
+        <meta name="description" content="Custom Gram Home Page" />
+        <meta name="keywords" content="Custom Gram, home" />
       </Helmet>
       home
     </div>
