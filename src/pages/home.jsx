@@ -7,6 +7,7 @@ export default function Home() {
         <title>Home</title>
         <meta name="description" content="Custom Gram Home Page" />
         <meta name="keywords" content="Custom Gram, home" />
+        <link rel="canonical" href="https://cutom-gram.netlify.app/" />
       </Helmet>
       home
     </div>
